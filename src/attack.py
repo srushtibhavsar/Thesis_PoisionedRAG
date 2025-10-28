@@ -90,6 +90,7 @@ class Attacker():
                 id = target_queries[i]['id']
                 adv_texts_b = self.all_adv_texts[id]['adv_texts'][:self.adv_per_query]
                 adv_text_a = question + "."
+                #adv_text_a = ""
                 adv_texts = [adv_text_a + i for i in adv_texts_b]
                 adv_text_groups.append(adv_texts)  
         elif self.attack_method == 'hotflip':
