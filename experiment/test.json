@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": "chicago_fire_season_4",
+            "label": "entertainment",
+            "attributes": {
+                "name": "Chicago Fire Season 4",
+                "episodeCount": 23,
+                "premiereDate": "2015-10-13",
+                "conclusionDate": "2016-05-17"
+            }
+        },
+        {
+            "id": "dick_wolf",
+            "label": "person",
+            "attributes": {
+                "name": "Dick Wolf",
+                "role": "executive producer"
+            }
+        },
+        {
+            "id": "derek_haas",
+            "label": "person",
+            "attributes": {
+                "name": "Derek Haas",
+                "role": "producer"
+            }
+        },
+        {
+            "id": "michael_brandt",
+            "label": "person",
+            "attributes": {
+                "name": "Michael Brandt",
+                "role": "producer"
+            }
+        },
+        {
+            "id": "matt_olmstead",
+            "label": "person",
+            "attributes": {
+                "name": "Matt Olmstead",
+                "role": "producer"
+            }
+        },
+        {
+            "id": "nbc",
+            "label": "organization",
+            "attributes": {
+                "name": "NBC"
+            }
+        },
+        {
+            "id": "february_5_2015",
+            "label": "date",
+            "attributes": {
+                "date": "2015-02-05",
+                "event": "series ordered"
+            }
+        },
+        {
+            "id": "keyword_american_drama_television_series",
+            "label": "other"
+        },
+        {
+            "id": "doc6",
+            "label": "document",
+            "attributes": {
+                "content": "The fourth season of Chicago Fire, an American drama television series with executive producer Dick Wolf, and producers Derek Haas, Michael Brandt, and Matt Olmstead, was ordered on February 5, 2015, by NBC,[1] and premiered on October 13, 2015 and concluded on May 17, 2016.[2] The season contained 23 episodes.[3]"
+            }
+        }
+    ],
+    "relationships": [
+        {
+            "source": "chicago_fire_season_4",
+            "target": "dick_wolf",
+            "type": "HAS_EXECUTIVE_PRODUCER"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "target": "derek_haas",
+            "type": "HAS_PRODUCER"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "target": "michael_brandt",
+            "type": "HAS_PRODUCER"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "target": "matt_olmstead",
+            "type": "HAS_PRODUCER"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "target": "nbc",
+            "type": "ORDERED_BY"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "target": "february_5_2015",
+            "type": "ORDERED_ON"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "target": "doc6",
+            "type": "MENTIONED_IN"
+        },
+        {
+            "source": "dick_wolf",
+            "target": "doc6",
+            "type": "MENTIONED_IN"
+        },
+        {
+            "source": "derek_haas",
+            "target": "doc6",
+            "type": "MENTIONED_IN"
+        },
+        {
+            "source": "michael_brandt",
+            "target": "doc6",
+            "type": "MENTIONED_IN"
+        },
+        {
+            "source": "matt_olmstead",
+            "target": "doc6",
+            "type": "MENTIONED_IN"
+        },
+        {
+            "source": "nbc",
+            "target": "doc6",
+            "type": "MENTIONED_IN"
+        },
+        {
+            "source": "february_5_2015",
+            "target": "doc6",
+            "type": "MENTIONED_IN"
+        },
+        {
+            "source": "keyword_american_drama_television_series",
+            "target": "doc6",
+            "type": "MENTIONED_IN"
+        }
+    ]
+}

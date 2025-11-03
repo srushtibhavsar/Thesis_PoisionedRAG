@@ -20,18 +20,20 @@ def run(test_params):
         --M {test_params['M']}\
         --seed {test_params['seed']}\
         --name {log_name}\
-        --enable_ppl_defense {test_params['enable_ppl_defense']}\
-        --ppl_threshold {test_params['ppl_threshold']}\
-        --ppl_percentile {test_params['ppl_percentile']}\
-        --save_ppl_stats {test_params['save_ppl_stats']}\
+        --use_ppl_defense True \
+        --ppl_model_name gpt2 \
+        --ppl_max_length 512 \
+        --ppl_threshold 50.0 \
+        --ppl_keep_ratio 1.0\
         > {log_file} &"
+        
         
     os.system(cmd)
 
 
 def get_log_name(test_params):
     # Generate a log file name
-    os.makedirs(f"/mnt/SAS_A/srushti_thesis/Final_Code/PoisonedRAG/perplexity/logs/{test_params['query_results_dir']}_logs", exist_ok=True)
+    os.makedirs(f"perplexity/logs_50/{test_params['query_results_dir']}_logs", exist_ok=True)
 
     if test_params['use_truth']:
         log_name = f"{test_params['eval_dataset']}-{test_params['eval_model_code']}-{test_params['model_name']}-Truth--M{test_params['M']}x{test_params['repeat_times']}"
@@ -44,7 +46,7 @@ def get_log_name(test_params):
     if test_params['note'] != None:
         log_name = test_params['note']
     
-    return f"/mnt/SAS_A/srushti_thesis/Final_Code/PoisonedRAG/perplexity/logs/{test_params['query_results_dir']}_logs/{log_name}.txt", log_name
+    return f"perplexity/logs_50/{test_params['query_results_dir']}_logs/{log_name}.txt", log_name
 
 
 
@@ -68,12 +70,6 @@ test_params = {
     'repeat_times': 10,
     'M': 10,
     'seed': 12,
-    
-    # Perplexity defense
-    'enable_ppl_defense': 'True',      # turn defense on
-    'ppl_threshold': None,             # derive from percentile if None
-    'ppl_percentile': 95.0,            # use 95th percentile of clean texts
-    'save_ppl_stats': 'True',          # save stats for ROC/AUC
 
     'note': None
 }

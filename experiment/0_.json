@@ -1,0 +1,3686 @@
+{
+    "nodes": [
+        {
+            "id": "accounting",
+            "label": "keyword",
+            "doc_id": "doc0"
+        },
+        {
+            "id": "minority_interest",
+            "label": "scientific_term",
+            "doc_id": "doc0"
+        },
+        {
+            "id": "non_controlling_interest",
+            "label": "scientific_term",
+            "doc_id": "doc0"
+        },
+        {
+            "id": "subsidiary_corporation",
+            "label": "organization",
+            "doc_id": "doc0"
+        },
+        {
+            "id": "parent_corporation",
+            "label": "organization",
+            "doc_id": "doc0"
+        },
+        {
+            "id": "minority_interest_portion",
+            "label": "other",
+            "doc_id": "doc0"
+        },
+        {
+            "id": "val_50",
+            "label": "value_number",
+            "doc_id": "doc0"
+        },
+        {
+            "id": "special_voting_rights",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "controlling_interest",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "ownership",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "accounting_standards",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "minority_interest",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "investors",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "consolidated_balance_sheet",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "owning_company",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "assets",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "non_controlling_shareholders",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "consolidated_income_statement",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "share_of_profit",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "minority_shareholders",
+            "label": "other",
+            "doc_id": "doc1"
+        },
+        {
+            "id": "minority_interest",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "accounting_standards",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "full_consolidation",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "partial_consolidation",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "financial_statements",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "parent_corporation",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "partly_owned_subsidiaries",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "net_income_to_common_shareholders",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "common_equity",
+            "label": "keyword",
+            "doc_id": "doc2"
+        },
+        {
+            "id": "investors",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "minority_interest_line_items",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "significant_uncertainty",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "assessment_of_value",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "leverage",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "liquidity",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "reported_cash_position",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "val_100_percent",
+            "label": "value_text",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "val_51_percent",
+            "label": "value_text",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "subsidiary_100",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "subsidiary_51",
+            "label": "other",
+            "doc_id": "doc3"
+        },
+        {
+            "id": "international_financial_reporting_standards",
+            "label": "law",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "ifrs_5",
+            "label": "law",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "non_controlling_interest",
+            "label": "financial_term",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "us_gaap",
+            "label": "law",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "minority_interest",
+            "label": "financial_term",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "mezzanine_section",
+            "label": "other",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "fasb_fas_160",
+            "label": "law",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "fas_141r",
+            "label": "law",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "parent_company",
+            "label": "other",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "subsidiary",
+            "label": "other",
+            "doc_id": "doc5"
+        },
+        {
+            "id": "chicago_fire_season_4",
+            "label": "work",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "val_2015_10_13",
+            "label": "value_date",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "val_2016_05_17",
+            "label": "value_date",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "val_23",
+            "label": "value_number",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "val_2015_02_05",
+            "label": "value_date",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "nbc",
+            "label": "organization",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "dick_wolf",
+            "label": "person",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "derek_haas",
+            "label": "person",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "michael_brandt",
+            "label": "person",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "matt_olmstead",
+            "label": "person",
+            "doc_id": "doc6"
+        },
+        {
+            "id": "chicago_fire_department",
+            "label": "organization",
+            "doc_id": "doc7"
+        },
+        {
+            "id": "engine_51",
+            "label": "other",
+            "doc_id": "doc7"
+        },
+        {
+            "id": "truck_81",
+            "label": "other",
+            "doc_id": "doc7"
+        },
+        {
+            "id": "squad_3",
+            "label": "other",
+            "doc_id": "doc7"
+        },
+        {
+            "id": "ambulance_61",
+            "label": "other",
+            "doc_id": "doc7"
+        },
+        {
+            "id": "battalion_25",
+            "label": "other",
+            "doc_id": "doc7"
+        },
+        {
+            "id": "chicago_location",
+            "label": "location",
+            "doc_id": "doc7"
+        },
+        {
+            "id": "patterson",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "severide",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "borelli",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "chili",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "cruz",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "leon",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "mouch",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "rush_band",
+            "label": "organization",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "boden",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "donna",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "neighbor",
+            "label": "person",
+            "doc_id": "doc8"
+        },
+        {
+            "id": "hermann",
+            "label": "person",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "chicago_med",
+            "label": "location",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "mollys",
+            "label": "location",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "cruz",
+            "label": "person",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "freddy",
+            "label": "person",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "severide",
+            "label": "person",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "borelli",
+            "label": "person",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "chili",
+            "label": "person",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "mouch",
+            "label": "person",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "platt",
+            "label": "person",
+            "doc_id": "doc9"
+        },
+        {
+            "id": "love_will_keep_us_alive",
+            "label": "work",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "jim_capaldi",
+            "label": "person",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "paul_carrack",
+            "label": "person",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "peter_vale",
+            "label": "person",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "eagles",
+            "label": "organization",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "elliot_scheiner",
+            "label": "person",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "rob_jacobs",
+            "label": "person",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "val_1994",
+            "label": "value_date",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "hell_freezes_over_reunion_tour",
+            "label": "event",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "timothy_b_schmit",
+            "label": "person",
+            "doc_id": "doc10"
+        },
+        {
+            "id": "love_will_keep_us_alive",
+            "label": "work",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "billboard_adult_contemporary_chart",
+            "label": "other",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "val_1995",
+            "label": "value_date",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "val_1",
+            "label": "value_number",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "billboard_hot_100_airplay_chart",
+            "label": "other",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "val_22",
+            "label": "value_number",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "united_kingdom",
+            "label": "location",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "uk_singles_chart",
+            "label": "other",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "val_52",
+            "label": "value_number",
+            "doc_id": "doc11"
+        },
+        {
+            "id": "hell_freezes_over",
+            "label": "work",
+            "doc_id": "doc12"
+        },
+        {
+            "id": "selected_works_1972_1999",
+            "label": "work",
+            "doc_id": "doc12"
+        },
+        {
+            "id": "the_very_best_of_2003",
+            "label": "work",
+            "doc_id": "doc12"
+        },
+        {
+            "id": "eagles",
+            "label": "organization",
+            "doc_id": "doc12"
+        },
+        {
+            "id": "paul_carrack",
+            "label": "person",
+            "doc_id": "doc13"
+        },
+        {
+            "id": "song",
+            "label": "work",
+            "doc_id": "doc13"
+        },
+        {
+            "id": "blue_views",
+            "label": "work",
+            "doc_id": "doc13"
+        },
+        {
+            "id": "val_1996",
+            "label": "value_date",
+            "doc_id": "doc13"
+        },
+        {
+            "id": "greatest_hits_the_story_so_far",
+            "label": "work",
+            "doc_id": "doc13"
+        },
+        {
+            "id": "val_2006",
+            "label": "value_date",
+            "doc_id": "doc13"
+        },
+        {
+            "id": "paul_carrack",
+            "label": "person",
+            "doc_id": "doc14"
+        },
+        {
+            "id": "timothy_b_schmit",
+            "label": "person",
+            "doc_id": "doc14"
+        },
+        {
+            "id": "song_recording",
+            "label": "work",
+            "doc_id": "doc14"
+        },
+        {
+            "id": "london",
+            "label": "location",
+            "doc_id": "doc14"
+        },
+        {
+            "id": "royal_philharmonic_orchestra",
+            "label": "organization",
+            "doc_id": "doc14"
+        },
+        {
+            "id": "uk",
+            "label": "location",
+            "doc_id": "doc14"
+        },
+        {
+            "id": "carrack_label",
+            "label": "organization",
+            "doc_id": "doc14"
+        },
+        {
+            "id": "val_2011",
+            "label": "value_date",
+            "doc_id": "doc14"
+        },
+        {
+            "id": "paul_carrack",
+            "label": "person",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "jim_capaldi",
+            "label": "person",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "timothy_b_schmit",
+            "label": "person",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "don_felder",
+            "label": "person",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "max_carl",
+            "label": "person",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "malibu_mens_choir",
+            "label": "organization",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "eagles",
+            "label": "organization",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "irving_azoff",
+            "label": "person",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "val_2003",
+            "label": "value_date",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "demo_tapes",
+            "label": "other",
+            "doc_id": "doc15"
+        },
+        {
+            "id": "love_will_keep_us_alive",
+            "label": "work",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "capaldi_dave_mason_40000_headman_tour",
+            "label": "event",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "capaldi_dave_mason_live_album",
+            "label": "work",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "carrack",
+            "label": "person",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "lindsay_dracass",
+            "label": "person",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "carrack_old_new_borrowed_and_blue_2007",
+            "label": "work",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "wendy_matthews",
+            "label": "person",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "love_will_keep_me_alive",
+            "label": "work",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "the_witness_tree_1994",
+            "label": "work",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "val_1995",
+            "label": "value_date",
+            "doc_id": "doc16"
+        },
+        {
+            "id": "patrick_walter_brown",
+            "label": "person",
+            "doc_id": "doc17"
+        },
+        {
+            "id": "val_1978_05_26",
+            "label": "value_date",
+            "doc_id": "doc17"
+        },
+        {
+            "id": "progressive_conservative_party_of_ontario",
+            "label": "organization",
+            "doc_id": "doc17"
+        },
+        {
+            "id": "ontario_official_opposition",
+            "label": "organization",
+            "doc_id": "doc17"
+        },
+        {
+            "id": "house_of_commons_of_canada",
+            "label": "organization",
+            "doc_id": "doc17"
+        },
+        {
+            "id": "barrie_riding",
+            "label": "location",
+            "doc_id": "doc17"
+        },
+        {
+            "id": "val_2006_2015",
+            "label": "value_text",
+            "doc_id": "doc17"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc18"
+        },
+        {
+            "id": "ontario_pc_party",
+            "label": "organization",
+            "doc_id": "doc18"
+        },
+        {
+            "id": "val_may_2015",
+            "label": "value_date",
+            "doc_id": "doc18"
+        },
+        {
+            "id": "val_september_3_2015",
+            "label": "value_date",
+            "doc_id": "doc18"
+        },
+        {
+            "id": "simcoe_north",
+            "label": "location",
+            "doc_id": "doc18"
+        },
+        {
+            "id": "mpp",
+            "label": "keyword",
+            "doc_id": "doc18"
+        },
+        {
+            "id": "lawyer",
+            "label": "keyword",
+            "doc_id": "doc18"
+        },
+        {
+            "id": "barrie",
+            "label": "location",
+            "doc_id": "doc18"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "toronto",
+            "label": "location",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "irish",
+            "label": "keyword",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "italian",
+            "label": "keyword",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "roman_catholic",
+            "label": "keyword",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "edmond_brown",
+            "label": "person",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "lawyer",
+            "label": "keyword",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "new_democratic_party",
+            "label": "organization",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "england",
+            "label": "location",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "ireland",
+            "label": "location",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "canada",
+            "label": "location",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "judy_tascona_brown",
+            "label": "person",
+            "doc_id": "doc19"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "joe_tascona",
+            "label": "person",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "mike_harris_government",
+            "label": "other",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "val_3",
+            "label": "value_text",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "st_michaels_college_school",
+            "label": "organization",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "toronto",
+            "label": "location",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "university_of_toronto",
+            "label": "organization",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "university_of_windsor",
+            "label": "organization",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "val_political_science",
+            "label": "value_text",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "val_law",
+            "label": "value_text",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "as_prime_minister_award",
+            "label": "other",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "val_10",
+            "label": "value_number",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "magna_international",
+            "label": "organization",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "val_4",
+            "label": "value_number",
+            "doc_id": "doc20"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "progressive_conservative_youth_federation",
+            "label": "organization",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "progressive_conservative_party_of_ontario",
+            "label": "organization",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "joe_clark",
+            "label": "person",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "scott_brison",
+            "label": "person",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "jonathan_frate",
+            "label": "person",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "val_1998",
+            "label": "value_date",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "val_2002",
+            "label": "value_date",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "val_2",
+            "label": "value_number",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "val_81_percent",
+            "label": "value_text",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "val_early_supporter_united_right",
+            "label": "value_text",
+            "doc_id": "doc21"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc22"
+        },
+        {
+            "id": "international_young_democrat_union",
+            "label": "organization",
+            "doc_id": "doc22"
+        },
+        {
+            "id": "canada",
+            "label": "location",
+            "doc_id": "doc22"
+        },
+        {
+            "id": "patrick_brown",
+            "label": "person",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "ontario_pc_party",
+            "label": "organization",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "toronto_pride_parade",
+            "label": "event",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "bill_davis",
+            "label": "person",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "brian_mulroney",
+            "label": "person",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "val_pragmatic_conservative",
+            "label": "value_text",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "val_socially_liberal_fiscally_conservative",
+            "label": "value_text",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "val_man_made_climate_change",
+            "label": "value_text",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "val_revenue_neutral_price_on_carbon",
+            "label": "value_text",
+            "doc_id": "doc23"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc24"
+        },
+        {
+            "id": "queens_park",
+            "label": "location",
+            "doc_id": "doc24"
+        },
+        {
+            "id": "energy_policies",
+            "label": "keyword",
+            "doc_id": "doc24"
+        },
+        {
+            "id": "green_energy_act",
+            "label": "law",
+            "doc_id": "doc24"
+        },
+        {
+            "id": "hydro_one",
+            "label": "organization",
+            "doc_id": "doc24"
+        },
+        {
+            "id": "new_energy_contracts",
+            "label": "other",
+            "doc_id": "doc24"
+        },
+        {
+            "id": "patrick_brown",
+            "label": "person",
+            "doc_id": "doc25"
+        },
+        {
+            "id": "ontario_legislature",
+            "label": "organization",
+            "doc_id": "doc25"
+        },
+        {
+            "id": "bill_151_estate_administration_tax_abolition_act",
+            "label": "law",
+            "doc_id": "doc25"
+        },
+        {
+            "id": "ontario",
+            "label": "location",
+            "doc_id": "doc25"
+        },
+        {
+            "id": "liberal_government",
+            "label": "organization",
+            "doc_id": "doc25"
+        },
+        {
+            "id": "val_second_reading",
+            "label": "value_text",
+            "doc_id": "doc25"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc26"
+        },
+        {
+            "id": "ontario",
+            "label": "location",
+            "doc_id": "doc26"
+        },
+        {
+            "id": "val_many",
+            "label": "value_text",
+            "doc_id": "doc26"
+        },
+        {
+            "id": "islamophobia",
+            "label": "keyword",
+            "doc_id": "doc26"
+        },
+        {
+            "id": "tamil_genocide",
+            "label": "event",
+            "doc_id": "doc26"
+        },
+        {
+            "id": "narendra_modi",
+            "label": "person",
+            "doc_id": "doc26"
+        },
+        {
+            "id": "gujarat",
+            "label": "location",
+            "doc_id": "doc26"
+        },
+        {
+            "id": "his_critics",
+            "label": "other",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "policy_lite",
+            "label": "value_text",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "progressive_conservative_leadership_campaign",
+            "label": "event",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "leadership_race",
+            "label": "other",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "less_red_tape",
+            "label": "value_text",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "improved_transportation_corridors",
+            "label": "value_text",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "affordable_energy",
+            "label": "value_text",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "addressing_ontario_growing_skills_gap",
+            "label": "value_text",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "prosperous_province",
+            "label": "value_text",
+            "doc_id": "doc27"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "party",
+            "label": "organization",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "political_centre",
+            "label": "keyword",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "mp_period",
+            "label": "other",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "socially_conservative_voting_record",
+            "label": "keyword",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "same_sex_marriage_debate",
+            "label": "event",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "abortion_debate",
+            "label": "event",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "euthanasia_legalization",
+            "label": "law",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "gender_expression_human_rights_act",
+            "label": "law",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "constituents",
+            "label": "other",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "provincial_legislature",
+            "label": "location",
+            "doc_id": "doc28"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc29"
+        },
+        {
+            "id": "barrie_city_council",
+            "label": "organization",
+            "doc_id": "doc29"
+        },
+        {
+            "id": "val_2000",
+            "label": "value_date",
+            "doc_id": "doc29"
+        },
+        {
+            "id": "val_22",
+            "label": "value_number",
+            "doc_id": "doc29"
+        },
+        {
+            "id": "val_2003",
+            "label": "value_date",
+            "doc_id": "doc29"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc30"
+        },
+        {
+            "id": "budget_committee",
+            "label": "organization",
+            "doc_id": "doc30"
+        },
+        {
+            "id": "health_care",
+            "label": "other",
+            "doc_id": "doc30"
+        },
+        {
+            "id": "physician_recruitment_task_force",
+            "label": "organization",
+            "doc_id": "doc30"
+        },
+        {
+            "id": "royal_victoria_hospital",
+            "label": "organization",
+            "doc_id": "doc30"
+        },
+        {
+            "id": "barrie",
+            "label": "location",
+            "doc_id": "doc30"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "conservative_party",
+            "label": "organization",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "barrie",
+            "label": "location",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "aileen_carroll",
+            "label": "person",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "rick_jones",
+            "label": "person",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "liberal",
+            "label": "organization",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "val_2004",
+            "label": "value_date",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "val_2006",
+            "label": "value_date",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "val_2008",
+            "label": "value_date",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "val_1295",
+            "label": "value_number",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "val_1523",
+            "label": "value_number",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "val_15295",
+            "label": "value_number",
+            "doc_id": "doc31"
+        },
+        {
+            "id": "canadian_taxpayers_federation",
+            "label": "organization",
+            "doc_id": "doc32"
+        },
+        {
+            "id": "patrick_brown",
+            "label": "person",
+            "doc_id": "doc32"
+        },
+        {
+            "id": "canadian_house_of_commons_account",
+            "label": "other",
+            "doc_id": "doc32"
+        },
+        {
+            "id": "barrie_city_councillor_michael_prowse",
+            "label": "person",
+            "doc_id": "doc32"
+        },
+        {
+            "id": "val_november_2010",
+            "label": "value_date",
+            "doc_id": "doc32"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc33"
+        },
+        {
+            "id": "val_2011",
+            "label": "value_date",
+            "doc_id": "doc33"
+        },
+        {
+            "id": "val_3",
+            "label": "value_number",
+            "doc_id": "doc33"
+        },
+        {
+            "id": "val_2014_09_28",
+            "label": "value_date",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "person_unnamed",
+            "label": "person",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "val_2015_ontario_party_leadership_election",
+            "label": "event",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "val_2014_11_20",
+            "label": "value_date",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "ontario_pcs",
+            "label": "organization",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "val_2003",
+            "label": "value_date",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "conservative_party_of_canada_ontario",
+            "label": "organization",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "greater_toronto_area_caucus",
+            "label": "organization",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "canada_india_parliamentary_association",
+            "label": "organization",
+            "doc_id": "doc34"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc35"
+        },
+        {
+            "id": "pc_party",
+            "label": "organization",
+            "doc_id": "doc35"
+        },
+        {
+            "id": "tim_hudak",
+            "label": "person",
+            "doc_id": "doc35"
+        },
+        {
+            "id": "val_september_2014",
+            "label": "value_date",
+            "doc_id": "doc35"
+        },
+        {
+            "id": "ontario_legislature",
+            "label": "organization",
+            "doc_id": "doc35"
+        },
+        {
+            "id": "val_2014",
+            "label": "value_date",
+            "doc_id": "doc35"
+        },
+        {
+            "id": "val_100000",
+            "label": "value_number",
+            "doc_id": "doc35"
+        },
+        {
+            "id": "val_4",
+            "label": "value_number",
+            "doc_id": "doc35"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc36"
+        },
+        {
+            "id": "leadership_election",
+            "label": "event",
+            "doc_id": "doc36"
+        },
+        {
+            "id": "val_march",
+            "label": "value_date",
+            "doc_id": "doc36"
+        },
+        {
+            "id": "val_40000",
+            "label": "value_number",
+            "doc_id": "doc36"
+        },
+        {
+            "id": "val_70000",
+            "label": "value_number",
+            "doc_id": "doc36"
+        },
+        {
+            "id": "party",
+            "label": "organization",
+            "doc_id": "doc36"
+        },
+        {
+            "id": "val_4",
+            "label": "value_number",
+            "doc_id": "doc36"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc37"
+        },
+        {
+            "id": "campaign_life_coalition",
+            "label": "organization",
+            "doc_id": "doc37"
+        },
+        {
+            "id": "ontario_landowners_association",
+            "label": "organization",
+            "doc_id": "doc37"
+        },
+        {
+            "id": "ontario_pc_party",
+            "label": "organization",
+            "doc_id": "doc37"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc38"
+        },
+        {
+            "id": "christine_elliott",
+            "label": "person",
+            "doc_id": "doc38"
+        },
+        {
+            "id": "house_of_commons",
+            "label": "organization",
+            "doc_id": "doc38"
+        },
+        {
+            "id": "stephen_harper",
+            "label": "person",
+            "doc_id": "doc38"
+        },
+        {
+            "id": "val_2014",
+            "label": "value_date",
+            "doc_id": "doc38"
+        },
+        {
+            "id": "val_56_percent",
+            "label": "value_text",
+            "doc_id": "doc38"
+        },
+        {
+            "id": "val_83_percent",
+            "label": "value_number",
+            "doc_id": "doc38"
+        },
+        {
+            "id": "vic_fedeli",
+            "label": "person",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "lisa_macleod",
+            "label": "person",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "monte_mcnaughton",
+            "label": "person",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "val_2015",
+            "label": "value_date",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "christine_elliott",
+            "label": "person",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "val_2015_05_09",
+            "label": "value_date",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "val_61_8",
+            "label": "value_number",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "other_candidates",
+            "label": "other",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "membership_vote",
+            "label": "other",
+            "doc_id": "doc39"
+        },
+        {
+            "id": "brown",
+            "label": "person",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "val_2015_05_13",
+            "label": "value_date",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "house_of_commons",
+            "label": "organization",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "progressive_conservative_party",
+            "label": "organization",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "garfield_dunlop",
+            "label": "person",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "val_2015_07_22",
+            "label": "value_date",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "val_2015_08_01",
+            "label": "value_date",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "val_2015_09_03",
+            "label": "value_date",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "simcoe_north",
+            "label": "location",
+            "doc_id": "doc40"
+        },
+        {
+            "id": "ontario_pc_party",
+            "label": "organization",
+            "doc_id": "doc41"
+        },
+        {
+            "id": "sault_ste_marie",
+            "label": "location",
+            "doc_id": "doc41"
+        },
+        {
+            "id": "scarborough_rouge_river",
+            "label": "location",
+            "doc_id": "doc41"
+        },
+        {
+            "id": "liberals",
+            "label": "organization",
+            "doc_id": "doc41"
+        },
+        {
+            "id": "val_5",
+            "label": "value_number",
+            "doc_id": "doc41"
+        },
+        {
+            "id": "fishin_in_the_dark",
+            "label": "work",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "wendy_waldman",
+            "label": "person",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "jim_photoglo",
+            "label": "person",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "the_nitty_gritty_dirt_band",
+            "label": "organization",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "hold_on_album",
+            "label": "work",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "val_june_1987",
+            "label": "value_date",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "val_1_000_000",
+            "label": "value_number",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "val_september_12_2014",
+            "label": "value_date",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "u_s_country_charts",
+            "label": "other",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "canadian_country_charts",
+            "label": "other",
+            "doc_id": "doc42"
+        },
+        {
+            "id": "the_premise_song",
+            "label": "work",
+            "doc_id": "doc43"
+        },
+        {
+            "id": "val_late_spring_early_summer",
+            "label": "value_text",
+            "doc_id": "doc43"
+        },
+        {
+            "id": "bill_young",
+            "label": "person",
+            "doc_id": "doc44"
+        },
+        {
+            "id": "music_video",
+            "label": "entertainment",
+            "doc_id": "doc44"
+        },
+        {
+            "id": "band",
+            "label": "other",
+            "doc_id": "doc44"
+        },
+        {
+            "id": "live_audience",
+            "label": "other",
+            "doc_id": "doc44"
+        },
+        {
+            "id": "three_rings",
+            "label": "other",
+            "doc_id": "doc46"
+        },
+        {
+            "id": "elves_of_eregion",
+            "label": "person",
+            "doc_id": "doc46"
+        },
+        {
+            "id": "one_ring",
+            "label": "other",
+            "doc_id": "doc46"
+        },
+        {
+            "id": "rings_of_power",
+            "label": "other",
+            "doc_id": "doc46"
+        },
+        {
+            "id": "val_20",
+            "label": "value_number",
+            "doc_id": "doc46"
+        },
+        {
+            "id": "three_rings",
+            "label": "product",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "celebrimbor",
+            "label": "person",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "sauron",
+            "label": "person",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "annatar",
+            "label": "person",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "eregion",
+            "label": "location",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "one_ring",
+            "label": "product",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "elves",
+            "label": "other",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "middle_earth",
+            "label": "location",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "third_age",
+            "label": "event",
+            "doc_id": "doc47"
+        },
+        {
+            "id": "narya",
+            "label": "other",
+            "doc_id": "doc48"
+        },
+        {
+            "id": "val_red_gemstone",
+            "label": "value_text",
+            "doc_id": "doc48"
+        },
+        {
+            "id": "the_lord_of_the_rings_final_chapter",
+            "label": "work",
+            "doc_id": "doc48"
+        },
+        {
+            "id": "two_elven_rings",
+            "label": "other",
+            "doc_id": "doc48"
+        },
+        {
+            "id": "quenya",
+            "label": "language",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "narya_the_great",
+            "label": "other",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "ring_of_fire",
+            "label": "other",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "red_ring",
+            "label": "other",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "the_kindler",
+            "label": "other",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "val_fire",
+            "label": "value_text",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "val_narya_the_great",
+            "label": "value_text",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "val_ring_of_fire",
+            "label": "value_text",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "val_red_ring",
+            "label": "value_text",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "val_the_kindler",
+            "label": "value_text",
+            "doc_id": "doc49"
+        },
+        {
+            "id": "unfinished_tales",
+            "label": "work",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "war_of_elves_and_sauron",
+            "label": "event",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "celebrimbor",
+            "label": "person",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "narya",
+            "label": "other",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "vilya",
+            "label": "other",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "gil_galad",
+            "label": "person",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "high_king_of_the_noldor",
+            "label": "other",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "ciridan",
+            "label": "person",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "lord_of_havens_of_mithlond",
+            "label": "other",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "the_lord_of_the_rings",
+            "label": "work",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "nenya",
+            "label": "other",
+            "doc_id": "doc50"
+        },
+        {
+            "id": "galadriel",
+            "label": "person",
+            "doc_id": "doc50"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "minority_interest",
+            "type": "ALSO_KNOWN_AS",
+            "target": "non_controlling_interest"
+        },
+        {
+            "source": "minority_interest_portion",
+            "type": "PART_OF",
+            "target": "subsidiary_corporation"
+        },
+        {
+            "source": "minority_interest_portion",
+            "type": "NOT_OWNED_BY",
+            "target": "parent_corporation"
+        },
+        {
+            "source": "minority_interest_portion",
+            "type": "LESS_THAN",
+            "target": "val_50"
+        },
+        {
+            "source": "controlling_interest",
+            "type": "ACHIEVED_WITHOUT",
+            "target": "ownership"
+        },
+        {
+            "source": "controlling_interest",
+            "type": "ACHIEVED_THROUGH",
+            "target": "special_voting_rights"
+        },
+        {
+            "source": "controlling_interest",
+            "type": "DEPENDS_ON",
+            "target": "accounting_standards"
+        },
+        {
+            "source": "minority_interest",
+            "type": "BELONGS_TO",
+            "target": "investors"
+        },
+        {
+            "source": "minority_interest",
+            "type": "REPORTED_ON",
+            "target": "consolidated_balance_sheet"
+        },
+        {
+            "source": "owning_company",
+            "type": "HAS",
+            "target": "consolidated_balance_sheet"
+        },
+        {
+            "source": "assets",
+            "type": "BELONGS_TO",
+            "target": "non_controlling_shareholders"
+        },
+        {
+            "source": "minority_interest",
+            "type": "REPORTED_ON",
+            "target": "consolidated_income_statement"
+        },
+        {
+            "source": "share_of_profit",
+            "type": "BELONGS_TO",
+            "target": "minority_shareholders"
+        },
+        {
+            "source": "minority_interest",
+            "type": "CONSEQUENCE_OF",
+            "target": "accounting_standards"
+        },
+        {
+            "source": "financial_statements",
+            "type": "CONSTRUCTED_AS_IF",
+            "target": "parent_corporation"
+        },
+        {
+            "source": "parent_corporation",
+            "type": "OWNS",
+            "target": "partly_owned_subsidiaries"
+        },
+        {
+            "source": "financial_statements",
+            "type": "CONTAIN",
+            "target": "net_income_to_common_shareholders"
+        },
+        {
+            "source": "financial_statements",
+            "type": "CONTAIN",
+            "target": "common_equity"
+        },
+        {
+            "source": "partly_owned_subsidiaries",
+            "type": "CHANGED_BY",
+            "target": "full_consolidation"
+        },
+        {
+            "source": "financial_statements",
+            "type": "ASSUME",
+            "target": "full_consolidation"
+        },
+        {
+            "source": "financial_statements",
+            "type": "ASSUME",
+            "target": "partial_consolidation"
+        },
+        {
+            "source": "investors",
+            "type": "EXPRESS_CONCERN",
+            "target": "minority_interest_line_items"
+        },
+        {
+            "source": "minority_interest_line_items",
+            "type": "CAUSES",
+            "target": "significant_uncertainty"
+        },
+        {
+            "source": "significant_uncertainty",
+            "type": "AFFECTS",
+            "target": "assessment_of_value"
+        },
+        {
+            "source": "significant_uncertainty",
+            "type": "AFFECTS",
+            "target": "leverage"
+        },
+        {
+            "source": "significant_uncertainty",
+            "type": "AFFECTS",
+            "target": "liquidity"
+        },
+        {
+            "source": "reported_cash_position",
+            "type": "PART_OF",
+            "target": "subsidiary_100"
+        },
+        {
+            "source": "subsidiary_100",
+            "type": "OWNED_BY",
+            "target": "val_100_percent"
+        },
+        {
+            "source": "reported_cash_position",
+            "type": "PART_OF",
+            "target": "subsidiary_51"
+        },
+        {
+            "source": "subsidiary_51",
+            "type": "OWNED_BY",
+            "target": "val_51_percent"
+        },
+        {
+            "source": "non_controlling_interest",
+            "type": "REPORTED_UNDER",
+            "target": "international_financial_reporting_standards"
+        },
+        {
+            "source": "non_controlling_interest",
+            "type": "REPORTED_IN_ACCORDANCE_WITH",
+            "target": "ifrs_5"
+        },
+        {
+            "source": "international_financial_reporting_standards",
+            "type": "HAS_SECTION",
+            "target": "equity_section"
+        },
+        {
+            "source": "non_controlling_interest",
+            "type": "LOCATED_IN",
+            "target": "equity_section"
+        },
+        {
+            "source": "minority_interest",
+            "type": "CAN_BE_REPORTED_UNDER",
+            "target": "us_gaap"
+        },
+        {
+            "source": "minority_interest",
+            "type": "CAN_BE_REPORTED_IN",
+            "target": "mezzanine_section"
+        },
+        {
+            "source": "fasb_fas_160",
+            "type": "ALTERS_ACCOUNTING_FOR",
+            "target": "non_controlling_interest"
+        },
+        {
+            "source": "fas_141r",
+            "type": "ALTERS_ACCOUNTING_FOR",
+            "target": "non_controlling_interest"
+        },
+        {
+            "source": "parent_company",
+            "type": "ACCOUNTS_FOR",
+            "target": "non_controlling_interest"
+        },
+        {
+            "source": "non_controlling_interest",
+            "type": "PART_OF",
+            "target": "subsidiary"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "PREMIERE_DATE",
+            "target": "val_2015_10_13"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "CONCLUDED_ON",
+            "target": "val_2016_05_17"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "EPISODE_COUNT",
+            "target": "val_23"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "ORDERED_ON",
+            "target": "val_2015_02_05"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "ORDERED_BY",
+            "target": "nbc"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "EXECUTIVE_PRODUCED_BY",
+            "target": "dick_wolf"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "PRODUCED_BY",
+            "target": "derek_haas"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "PRODUCED_BY",
+            "target": "michael_brandt"
+        },
+        {
+            "source": "chicago_fire_season_4",
+            "type": "PRODUCED_BY",
+            "target": "matt_olmstead"
+        },
+        {
+            "source": "engine_51",
+            "type": "PART_OF",
+            "target": "chicago_fire_department"
+        },
+        {
+            "source": "truck_81",
+            "type": "PART_OF",
+            "target": "chicago_fire_department"
+        },
+        {
+            "source": "squad_3",
+            "type": "PART_OF",
+            "target": "chicago_fire_department"
+        },
+        {
+            "source": "ambulance_61",
+            "type": "PART_OF",
+            "target": "chicago_fire_department"
+        },
+        {
+            "source": "battalion_25",
+            "type": "PART_OF",
+            "target": "chicago_fire_department"
+        },
+        {
+            "source": "chicago_fire_department",
+            "type": "LOCATED_IN",
+            "target": "chicago_location"
+        },
+        {
+            "source": "severide",
+            "type": "MADE_CALL_WITHOUT_CONSENT_OF",
+            "target": "patterson"
+        },
+        {
+            "source": "patterson",
+            "type": "QUESTIONED_BEING_AT",
+            "target": "severide"
+        },
+        {
+            "source": "borelli",
+            "type": "ROMANTICALLY_INVOLVED_WITH",
+            "target": "chili"
+        },
+        {
+            "source": "cruz",
+            "type": "VISITED_BY",
+            "target": "leon"
+        },
+        {
+            "source": "mouch",
+            "type": "RECEIVED_TICKETS_FROM",
+            "target": "rush_band"
+        },
+        {
+            "source": "boden",
+            "type": "MARRIED_TO",
+            "target": "donna"
+        },
+        {
+            "source": "boden",
+            "type": "HAS_NEIGHBOR",
+            "target": "neighbor"
+        },
+        {
+            "source": "hermann",
+            "type": "RUSHED_TO",
+            "target": "chicago_med"
+        },
+        {
+            "source": "hermann",
+            "type": "STABBED_AT",
+            "target": "mollys"
+        },
+        {
+            "source": "cruz",
+            "type": "SEARCHES_FOR",
+            "target": "freddy"
+        },
+        {
+            "source": "severide",
+            "type": "REINSTATED_AS",
+            "target": "lieutenant"
+        },
+        {
+            "source": "borelli",
+            "type": "CONCERNED_ABOUT",
+            "target": "chili"
+        },
+        {
+            "source": "mouch",
+            "type": "CONSIDERS_PROPOSING_TO",
+            "target": "platt"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "WRITTEN_BY",
+            "target": "jim_capaldi"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "WRITTEN_BY",
+            "target": "paul_carrack"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "WRITTEN_BY",
+            "target": "peter_vale"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "PRODUCED_BY",
+            "target": "eagles"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "PRODUCED_BY",
+            "target": "elliot_scheiner"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "PRODUCED_BY",
+            "target": "rob_jacobs"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "PERFORMED_BY",
+            "target": "eagles"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "FIRST_PERFORMED_ON",
+            "target": "val_1994"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "PERFORMED_AT",
+            "target": "hell_freezes_over_reunion_tour"
+        },
+        {
+            "source": "timothy_b_schmit",
+            "type": "HAS_ROLE",
+            "target": "lead_vocals"
+        },
+        {
+            "source": "lead_vocals",
+            "type": "ROLE_IN",
+            "target": "love_will_keep_us_alive"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "SPENT_WEEKS_AT_NUMBER",
+            "target": "val_1"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "CHARTED_ON",
+            "target": "billboard_adult_contemporary_chart"
+        },
+        {
+            "source": "billboard_adult_contemporary_chart",
+            "type": "DURING",
+            "target": "val_1995"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "REACHED_NUMBER",
+            "target": "val_22"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "CHARTED_ON",
+            "target": "billboard_hot_100_airplay_chart"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "ISSUED_AS_SINGLE_IN",
+            "target": "united_kingdom"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "PEAKED_AT_NUMBER",
+            "target": "val_52"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "CHARTED_ON",
+            "target": "uk_singles_chart"
+        },
+        {
+            "source": "hell_freezes_over",
+            "type": "HAS_CONTENT",
+            "target": "eagles"
+        },
+        {
+            "source": "selected_works_1972_1999",
+            "type": "HAS_CONTENT",
+            "target": "eagles"
+        },
+        {
+            "source": "the_very_best_of_2003",
+            "type": "HAS_CONTENT",
+            "target": "eagles"
+        },
+        {
+            "source": "paul_carrack",
+            "type": "RECORDED",
+            "target": "song"
+        },
+        {
+            "source": "song",
+            "type": "PART_OF",
+            "target": "blue_views"
+        },
+        {
+            "source": "blue_views",
+            "type": "RELEASE_DATE",
+            "target": "val_1996"
+        },
+        {
+            "source": "song",
+            "type": "PART_OF",
+            "target": "greatest_hits_the_story_so_far"
+        },
+        {
+            "source": "greatest_hits_the_story_so_far",
+            "type": "RELEASE_DATE",
+            "target": "val_2006"
+        },
+        {
+            "source": "paul_carrack",
+            "type": "RECORDED",
+            "target": "song_recording"
+        },
+        {
+            "source": "timothy_b_schmit",
+            "type": "RECORDED",
+            "target": "song_recording"
+        },
+        {
+            "source": "song_recording",
+            "type": "RECORDED_IN",
+            "target": "london"
+        },
+        {
+            "source": "song_recording",
+            "type": "RECORDED_WITH",
+            "target": "royal_philharmonic_orchestra"
+        },
+        {
+            "source": "song_recording",
+            "type": "RELEASED_IN",
+            "target": "uk"
+        },
+        {
+            "source": "song_recording",
+            "type": "RELEASED_BY",
+            "target": "carrack_label"
+        },
+        {
+            "source": "song_recording",
+            "type": "RELEASE_DATE",
+            "target": "val_2011"
+        },
+        {
+            "source": "malibu_mens_choir",
+            "type": "PLANNED_MEMBER",
+            "target": "paul_carrack"
+        },
+        {
+            "source": "malibu_mens_choir",
+            "type": "PLANNED_MEMBER",
+            "target": "jim_capaldi"
+        },
+        {
+            "source": "malibu_mens_choir",
+            "type": "PLANNED_MEMBER",
+            "target": "timothy_b_schmit"
+        },
+        {
+            "source": "malibu_mens_choir",
+            "type": "PLANNED_MEMBER",
+            "target": "don_felder"
+        },
+        {
+            "source": "malibu_mens_choir",
+            "type": "PLANNED_MEMBER",
+            "target": "max_carl"
+        },
+        {
+            "source": "demo_tapes",
+            "type": "SENT_TO",
+            "target": "irving_azoff"
+        },
+        {
+            "source": "irving_azoff",
+            "type": "MANAGER_OF",
+            "target": "eagles"
+        },
+        {
+            "source": "val_2003",
+            "type": "MENTIONED_IN",
+            "target": "demo_tapes"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "RECORDED_BY",
+            "target": "capaldi_dave_mason_40000_headman_tour"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "RECORDED_IN",
+            "target": "capaldi_dave_mason_live_album"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "RECORDED_BY",
+            "target": "carrack"
+        },
+        {
+            "source": "carrack",
+            "type": "DUET_WITH",
+            "target": "lindsay_dracass"
+        },
+        {
+            "source": "love_will_keep_us_alive",
+            "type": "RECORDED_IN",
+            "target": "carrack_old_new_borrowed_and_blue_2007"
+        },
+        {
+            "source": "love_will_keep_me_alive",
+            "type": "COVERED_BY",
+            "target": "wendy_matthews"
+        },
+        {
+            "source": "love_will_keep_me_alive",
+            "type": "RELEASED_IN",
+            "target": "val_1995"
+        },
+        {
+            "source": "love_will_keep_me_alive",
+            "type": "TRACK_OF",
+            "target": "the_witness_tree_1994"
+        },
+        {
+            "source": "patrick_walter_brown",
+            "type": "BORN_ON",
+            "target": "val_1978_05_26"
+        },
+        {
+            "source": "patrick_walter_brown",
+            "type": "LEADER_OF",
+            "target": "progressive_conservative_party_of_ontario"
+        },
+        {
+            "source": "patrick_walter_brown",
+            "type": "LEADER_OF",
+            "target": "ontario_official_opposition"
+        },
+        {
+            "source": "patrick_walter_brown",
+            "type": "MEMBER_OF",
+            "target": "house_of_commons_of_canada"
+        },
+        {
+            "source": "patrick_walter_brown",
+            "type": "REPRESENTED",
+            "target": "barrie_riding"
+        },
+        {
+            "source": "patrick_walter_brown",
+            "type": "TERM",
+            "target": "val_2006_2015"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTED_AS",
+            "target": "ontario_pc_party"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTION_DATE",
+            "target": "val_may_2015"
+        },
+        {
+            "source": "brown",
+            "type": "STEPPED_DOWN_FROM",
+            "target": "mpp"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTED_AS",
+            "target": "mpp"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTION_DATE",
+            "target": "val_september_3_2015"
+        },
+        {
+            "source": "mpp",
+            "type": "FOR_REGION",
+            "target": "simcoe_north"
+        },
+        {
+            "source": "brown",
+            "type": "FORMER_PROFESSION",
+            "target": "lawyer"
+        },
+        {
+            "source": "lawyer",
+            "type": "WORK_LOCATION",
+            "target": "barrie"
+        },
+        {
+            "source": "brown",
+            "type": "BORN_IN",
+            "target": "toronto"
+        },
+        {
+            "source": "brown",
+            "type": "HAS_DESCENT",
+            "target": "irish"
+        },
+        {
+            "source": "brown",
+            "type": "HAS_DESCENT",
+            "target": "italian"
+        },
+        {
+            "source": "brown",
+            "type": "RAISED_IN",
+            "target": "roman_catholic"
+        },
+        {
+            "source": "brown",
+            "type": "CHILD_OF",
+            "target": "edmond_brown"
+        },
+        {
+            "source": "brown",
+            "type": "CHILD_OF",
+            "target": "judy_tascona_brown"
+        },
+        {
+            "source": "edmond_brown",
+            "type": "WORKS_AS",
+            "target": "lawyer"
+        },
+        {
+            "source": "edmond_brown",
+            "type": "CANDIDATE_OF",
+            "target": "new_democratic_party"
+        },
+        {
+            "source": "edmond_brown",
+            "type": "RAISED_IN",
+            "target": "england"
+        },
+        {
+            "source": "edmond_brown",
+            "type": "RAISED_IN",
+            "target": "ireland"
+        },
+        {
+            "source": "edmond_brown",
+            "type": "MOVED_TO",
+            "target": "canada"
+        },
+        {
+            "source": "judy_tascona_brown",
+            "type": "HAS_DESCENT",
+            "target": "italian"
+        },
+        {
+            "source": "brown",
+            "type": "NEPHEW_OF",
+            "target": "joe_tascona"
+        },
+        {
+            "source": "joe_tascona",
+            "type": "INSTANCE_OF",
+            "target": "mike_harris_government"
+        },
+        {
+            "source": "mike_harris_government",
+            "type": "SOURCE",
+            "target": "val_3"
+        },
+        {
+            "source": "brown",
+            "type": "GRADUATED_FROM",
+            "target": "st_michaels_college_school"
+        },
+        {
+            "source": "st_michaels_college_school",
+            "type": "LOCATED_IN",
+            "target": "toronto"
+        },
+        {
+            "source": "brown",
+            "type": "STUDIED_AT",
+            "target": "university_of_toronto"
+        },
+        {
+            "source": "brown",
+            "type": "STUDIED_AT",
+            "target": "university_of_windsor"
+        },
+        {
+            "source": "brown",
+            "type": "MAJORED_IN",
+            "target": "val_political_science"
+        },
+        {
+            "source": "brown",
+            "type": "HAS_DEGREE_IN",
+            "target": "val_law"
+        },
+        {
+            "source": "brown",
+            "type": "RECIPIENT_OF",
+            "target": "as_prime_minister_award"
+        },
+        {
+            "source": "as_prime_minister_award",
+            "type": "RECIPIENT_COUNT",
+            "target": "val_10"
+        },
+        {
+            "source": "brown",
+            "type": "WORKED_AT",
+            "target": "magna_international"
+        },
+        {
+            "source": "magna_international",
+            "type": "DURATION_YEARS",
+            "target": "val_4"
+        },
+        {
+            "source": "brown",
+            "type": "SERVED_AS",
+            "target": "progressive_conservative_youth_federation"
+        },
+        {
+            "source": "brown",
+            "type": "TERMS",
+            "target": "val_2"
+        },
+        {
+            "source": "brown",
+            "type": "START_DATE",
+            "target": "val_1998"
+        },
+        {
+            "source": "brown",
+            "type": "END_DATE",
+            "target": "val_2002"
+        },
+        {
+            "source": "brown",
+            "type": "SERVED_ON",
+            "target": "progressive_conservative_party_of_ontario"
+        },
+        {
+            "source": "brown",
+            "type": "POSITION",
+            "target": "val_early_supporter_united_right"
+        },
+        {
+            "source": "joe_clark",
+            "type": "CRITICIZED",
+            "target": "brown"
+        },
+        {
+            "source": "scott_brison",
+            "type": "CRITICIZED",
+            "target": "brown"
+        },
+        {
+            "source": "brown",
+            "type": "RE_ELECTED",
+            "target": "progressive_conservative_youth_federation"
+        },
+        {
+            "source": "brown",
+            "type": "VOTE_PERCENTAGE",
+            "target": "val_81_percent"
+        },
+        {
+            "source": "brown",
+            "type": "OPPONENT",
+            "target": "jonathan_frate"
+        },
+        {
+            "source": "brown",
+            "type": "DEPUTY_CHAIRMAN_OF",
+            "target": "international_young_democrat_union"
+        },
+        {
+            "source": "brown",
+            "type": "REPRESENTED",
+            "target": "canada"
+        },
+        {
+            "source": "international_young_democrat_union",
+            "type": "HOSTED_BY",
+            "target": "international_young_democrat_union"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "IDENTIFIES_AS",
+            "target": "val_pragmatic_conservative"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "LEADER_OF",
+            "target": "ontario_pc_party"
+        },
+        {
+            "source": "ontario_pc_party",
+            "type": "MOVING_DIRECTION",
+            "target": "val_socially_liberal_fiscally_conservative"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "BELIEVES_IN",
+            "target": "val_man_made_climate_change"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "SUPPORTS",
+            "target": "val_revenue_neutral_price_on_carbon"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "MARCHED_IN",
+            "target": "toronto_pride_parade"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "MENTOR",
+            "target": "bill_davis"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "MENTOR",
+            "target": "brian_mulroney"
+        },
+        {
+            "source": "brown",
+            "type": "CRITICIZES",
+            "target": "energy_policies"
+        },
+        {
+            "source": "brown",
+            "type": "DEBATES_AT",
+            "target": "queens_park"
+        },
+        {
+            "source": "brown",
+            "type": "PROMISES_TO_DISMANTLE",
+            "target": "green_energy_act"
+        },
+        {
+            "source": "brown",
+            "type": "PROMISES_TO_REIN_IN_SALARIES_AT",
+            "target": "hydro_one"
+        },
+        {
+            "source": "brown",
+            "type": "PROMISES_MORATORIUM_ON",
+            "target": "new_energy_contracts"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "PROPOSED",
+            "target": "bill_151_estate_administration_tax_abolition_act"
+        },
+        {
+            "source": "bill_151_estate_administration_tax_abolition_act",
+            "type": "ATTEMPTED_TO_ELIMINATE",
+            "target": "ontario"
+        },
+        {
+            "source": "bill_151_estate_administration_tax_abolition_act",
+            "type": "LOCATED_IN",
+            "target": "ontario"
+        },
+        {
+            "source": "liberal_government",
+            "type": "VOTED_DOWN_AT",
+            "target": "val_second_reading"
+        },
+        {
+            "source": "brown",
+            "type": "HAS_RELATIONSHIP_WITH",
+            "target": "ontario"
+        },
+        {
+            "source": "ontario",
+            "type": "HAS_COMMUNITIES",
+            "target": "val_many"
+        },
+        {
+            "source": "brown",
+            "type": "SUPPORTED",
+            "target": "islamophobia"
+        },
+        {
+            "source": "brown",
+            "type": "REFERRED_TO",
+            "target": "tamil_genocide"
+        },
+        {
+            "source": "brown",
+            "type": "HAS_RELATIONSHIP_WITH",
+            "target": "narendra_modi"
+        },
+        {
+            "source": "narendra_modi",
+            "type": "REFERRED_TO",
+            "target": "brown"
+        },
+        {
+            "source": "brown",
+            "type": "HONORARY_CITIZEN",
+            "target": "gujarat"
+        },
+        {
+            "source": "his_critics",
+            "type": "HAS_NAME",
+            "target": "policy_lite"
+        },
+        {
+            "source": "leadership_race",
+            "type": "INSTANCE_OF",
+            "target": "progressive_conservative_leadership_campaign"
+        },
+        {
+            "source": "leadership_race",
+            "type": "HAS_CONTENT",
+            "target": "less_red_tape"
+        },
+        {
+            "source": "leadership_race",
+            "type": "HAS_CONTENT",
+            "target": "improved_transportation_corridors"
+        },
+        {
+            "source": "leadership_race",
+            "type": "HAS_CONTENT",
+            "target": "affordable_energy"
+        },
+        {
+            "source": "leadership_race",
+            "type": "HAS_CONTENT",
+            "target": "addressing_ontario_growing_skills_gap"
+        },
+        {
+            "source": "the_plan",
+            "type": "LEADS_TO",
+            "target": "prosperous_province"
+        },
+        {
+            "source": "brown",
+            "type": "SHIFTED_PARTY_TO",
+            "target": "political_centre"
+        },
+        {
+            "source": "brown",
+            "type": "HAS_ROLE",
+            "target": "mp_period"
+        },
+        {
+            "source": "brown",
+            "type": "VOTING_RECORD",
+            "target": "socially_conservative_voting_record"
+        },
+        {
+            "source": "brown",
+            "type": "VOTED_ON",
+            "target": "same_sex_marriage_debate"
+        },
+        {
+            "source": "brown",
+            "type": "VOTED_ON",
+            "target": "abortion_debate"
+        },
+        {
+            "source": "brown",
+            "type": "VOTED_AGAINST",
+            "target": "euthanasia_legalization"
+        },
+        {
+            "source": "brown",
+            "type": "VOTED_AGAINST",
+            "target": "gender_expression_human_rights_act"
+        },
+        {
+            "source": "brown",
+            "type": "REPRESENTED",
+            "target": "constituents"
+        },
+        {
+            "source": "brown",
+            "type": "NO_INTENT_TO_REVISIT",
+            "target": "provincial_legislature"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTED_TO",
+            "target": "barrie_city_council"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTED_ON",
+            "target": "val_2000"
+        },
+        {
+            "source": "brown",
+            "type": "AGE_AT_ELECTION",
+            "target": "val_22"
+        },
+        {
+            "source": "brown",
+            "type": "RE_ELECTED_ON",
+            "target": "val_2003"
+        },
+        {
+            "source": "brown",
+            "type": "SERVED_ON",
+            "target": "budget_committee"
+        },
+        {
+            "source": "brown",
+            "type": "HAS_FOCUS",
+            "target": "health_care"
+        },
+        {
+            "source": "brown",
+            "type": "FOUNDED",
+            "target": "physician_recruitment_task_force"
+        },
+        {
+            "source": "physician_recruitment_task_force",
+            "type": "PARTNERS_WITH",
+            "target": "royal_victoria_hospital"
+        },
+        {
+            "source": "physician_recruitment_task_force",
+            "type": "LOCATED_IN",
+            "target": "barrie"
+        },
+        {
+            "source": "brown",
+            "type": "CANDIDATE_OF",
+            "target": "conservative_party"
+        },
+        {
+            "source": "brown",
+            "type": "RAN_IN_LOCATION",
+            "target": "barrie"
+        },
+        {
+            "source": "brown",
+            "type": "RAN_IN_YEAR",
+            "target": "val_2004"
+        },
+        {
+            "source": "brown",
+            "type": "RAN_IN_YEAR",
+            "target": "val_2006"
+        },
+        {
+            "source": "brown",
+            "type": "RAN_IN_YEAR",
+            "target": "val_2008"
+        },
+        {
+            "source": "brown",
+            "type": "LOST_TO",
+            "target": "aileen_carroll"
+        },
+        {
+            "source": "brown",
+            "type": "WON_OVER",
+            "target": "aileen_carroll"
+        },
+        {
+            "source": "brown",
+            "type": "WON_OVER",
+            "target": "rick_jones"
+        },
+        {
+            "source": "aileen_carroll",
+            "type": "WON_BY",
+            "target": "val_1295"
+        },
+        {
+            "source": "brown",
+            "type": "WON_BY",
+            "target": "val_1523"
+        },
+        {
+            "source": "brown",
+            "type": "WON_BY",
+            "target": "val_15295"
+        },
+        {
+            "source": "rick_jones",
+            "type": "CANDIDATE_OF",
+            "target": "liberal"
+        },
+        {
+            "source": "canadian_taxpayers_federation",
+            "type": "EXPRESSED_CONCERN_IN",
+            "target": "val_november_2010"
+        },
+        {
+            "source": "canadian_taxpayers_federation",
+            "type": "CONCERNED_ABOUT",
+            "target": "patrick_brown"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "USED_ACCOUNT",
+            "target": "canadian_house_of_commons_account"
+        },
+        {
+            "source": "patrick_brown",
+            "type": "SENT_FLYER_WITH",
+            "target": "barrie_city_councillor_michael_prowse"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTED_IN",
+            "target": "val_2011"
+        },
+        {
+            "source": "brown",
+            "type": "TERM_NUMBER",
+            "target": "val_3"
+        },
+        {
+            "source": "person_unnamed",
+            "type": "ANNOUNCED_ON",
+            "target": "val_2014_09_28"
+        },
+        {
+            "source": "person_unnamed",
+            "type": "HAS_INTENTION_TO_RUN_IN",
+            "target": "val_2015_ontario_party_leadership_election"
+        },
+        {
+            "source": "person_unnamed",
+            "type": "REGISTERED_ON",
+            "target": "val_2014_11_20"
+        },
+        {
+            "source": "person_unnamed",
+            "type": "NOT_INVOLVED_IN",
+            "target": "ontario_pcs"
+        },
+        {
+            "source": "ontario_pcs",
+            "type": "OUT_OF_POWER_SINCE",
+            "target": "val_2003"
+        },
+        {
+            "source": "person_unnamed",
+            "type": "CHAIR_OF",
+            "target": "conservative_party_of_canada_ontario"
+        },
+        {
+            "source": "person_unnamed",
+            "type": "CHAIR_OF",
+            "target": "greater_toronto_area_caucus"
+        },
+        {
+            "source": "person_unnamed",
+            "type": "CHAIR_OF",
+            "target": "canada_india_parliamentary_association"
+        },
+        {
+            "source": "brown",
+            "type": "ANNOUNCED_CANDIDACY_ON",
+            "target": "val_september_2014"
+        },
+        {
+            "source": "brown",
+            "type": "CANDIDATE_FOR",
+            "target": "pc_party"
+        },
+        {
+            "source": "pc_party",
+            "type": "LEADER",
+            "target": "tim_hudak"
+        },
+        {
+            "source": "brown",
+            "type": "NOT_MEMBER_OF",
+            "target": "ontario_legislature"
+        },
+        {
+            "source": "pc_party",
+            "type": "DEFEATED_IN",
+            "target": "val_2014"
+        },
+        {
+            "source": "pc_party",
+            "type": "PROMISED_JOB_CUT",
+            "target": "val_100000"
+        },
+        {
+            "source": "pc_party",
+            "type": "PROMISE_DURATION_YEARS",
+            "target": "val_4"
+        },
+        {
+            "source": "brown",
+            "type": "FRONT_RUNNER_IN",
+            "target": "leadership_election"
+        },
+        {
+            "source": "leadership_election",
+            "type": "OCCURRED_IN",
+            "target": "val_march"
+        },
+        {
+            "source": "brown",
+            "type": "SOLD_MEMBERSHIPS",
+            "target": "val_40000"
+        },
+        {
+            "source": "party",
+            "type": "HAS_TOTAL_MEMBERSHIPS",
+            "target": "val_70000"
+        },
+        {
+            "source": "leadership_election",
+            "type": "PARTY",
+            "target": "party"
+        },
+        {
+            "source": "leadership_election",
+            "type": "PAST_CONTESTS_WON_BY",
+            "target": "val_4"
+        },
+        {
+            "source": "campaign_life_coalition",
+            "type": "ENDORSED",
+            "target": "brown"
+        },
+        {
+            "source": "ontario_landowners_association",
+            "type": "ENDORSED",
+            "target": "brown"
+        },
+        {
+            "source": "campaign_life_coalition",
+            "type": "SUPPORTED",
+            "target": "brown"
+        },
+        {
+            "source": "ontario_landowners_association",
+            "type": "SUPPORTED",
+            "target": "brown"
+        },
+        {
+            "source": "campaign_life_coalition",
+            "type": "SOLD_MEMBERSHIPS_FOR",
+            "target": "ontario_pc_party"
+        },
+        {
+            "source": "ontario_landowners_association",
+            "type": "SOLD_MEMBERSHIPS_FOR",
+            "target": "ontario_pc_party"
+        },
+        {
+            "source": "christine_elliott",
+            "type": "CRITICIZED",
+            "target": "brown"
+        },
+        {
+            "source": "brown",
+            "type": "ABSENT_FROM",
+            "target": "house_of_commons"
+        },
+        {
+            "source": "brown",
+            "type": "ATTENDED_PERCENTAGE",
+            "target": "val_56_percent"
+        },
+        {
+            "source": "brown",
+            "type": "OVERALL_ATTENDANCE",
+            "target": "val_83_percent"
+        },
+        {
+            "source": "brown",
+            "type": "TIME_PERIOD",
+            "target": "val_2014"
+        },
+        {
+            "source": "stephen_harper",
+            "type": "CONFIRMED",
+            "target": "brown"
+        },
+        {
+            "source": "vic_fedeli",
+            "type": "WITHDREW_IN",
+            "target": "val_2015"
+        },
+        {
+            "source": "lisa_macleod",
+            "type": "WITHDREW_IN",
+            "target": "val_2015"
+        },
+        {
+            "source": "monte_mcnaughton",
+            "type": "WITHDREW_IN",
+            "target": "val_2015"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTED_ON",
+            "target": "val_2015_05_09"
+        },
+        {
+            "source": "brown",
+            "type": "DEFEATED",
+            "target": "christine_elliott"
+        },
+        {
+            "source": "brown",
+            "type": "WINNING_PERCENTAGE",
+            "target": "val_61_8"
+        },
+        {
+            "source": "membership_vote",
+            "type": "WON_BY",
+            "target": "brown"
+        },
+        {
+            "source": "other_candidates",
+            "type": "INCLUDES",
+            "target": "vic_fedeli"
+        },
+        {
+            "source": "other_candidates",
+            "type": "INCLUDES",
+            "target": "lisa_macleod"
+        },
+        {
+            "source": "other_candidates",
+            "type": "INCLUDES",
+            "target": "monte_mcnaughton"
+        },
+        {
+            "source": "brown",
+            "type": "RESIGNED_ON",
+            "target": "val_2015_05_13"
+        },
+        {
+            "source": "brown",
+            "type": "RESIGNED_FROM",
+            "target": "house_of_commons"
+        },
+        {
+            "source": "brown",
+            "type": "LEADS",
+            "target": "progressive_conservative_party"
+        },
+        {
+            "source": "brown",
+            "type": "ELECTED_ON",
+            "target": "val_2015_09_03"
+        },
+        {
+            "source": "garfield_dunlop",
+            "type": "RESIGNED_ON",
+            "target": "val_2015_08_01"
+        },
+        {
+            "source": "garfield_dunlop",
+            "type": "REPRESENTED_LOCATION",
+            "target": "simcoe_north"
+        },
+        {
+            "source": "brown",
+            "type": "WON_BY_ELECTION",
+            "target": "simcoe_north"
+        },
+        {
+            "source": "garfield_dunlop",
+            "type": "ANNOUNCED_RESIGNATION_ON",
+            "target": "val_2015_07_22"
+        },
+        {
+            "source": "brown",
+            "type": "BY_ELECTION_DATE",
+            "target": "val_2015_09_03"
+        },
+        {
+            "source": "ontario_pc_party",
+            "type": "WON_BY_ELECTIONS",
+            "target": "val_5"
+        },
+        {
+            "source": "ontario_pc_party",
+            "type": "WON_IN",
+            "target": "sault_ste_marie"
+        },
+        {
+            "source": "ontario_pc_party",
+            "type": "WON_IN",
+            "target": "scarborough_rouge_river"
+        },
+        {
+            "source": "sault_ste_marie",
+            "type": "PREVIOUSLY_HELD_BY",
+            "target": "liberals"
+        },
+        {
+            "source": "scarborough_rouge_river",
+            "type": "PREVIOUSLY_HELD_BY",
+            "target": "liberals"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "WRITTEN_BY",
+            "target": "wendy_waldman"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "WRITTEN_BY",
+            "target": "jim_photoglo"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "RECORDED_BY",
+            "target": "the_nitty_gritty_dirt_band"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "RELEASE_DATE",
+            "target": "val_june_1987"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "PART_OF",
+            "target": "hold_on_album"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "CERTIFIED_PLATINUM_ON",
+            "target": "val_september_12_2014"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "HAS_SOLD_OVER",
+            "target": "val_1_000_000"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "REACHED_NUMBER_ONE_ON",
+            "target": "u_s_country_charts"
+        },
+        {
+            "source": "fishin_in_the_dark",
+            "type": "REACHED_NUMBER_ONE_ON",
+            "target": "canadian_country_charts"
+        },
+        {
+            "source": "the_premise_song",
+            "type": "HAS_CONTENT",
+            "target": "val_late_spring_early_summer"
+        },
+        {
+            "source": "music_video",
+            "type": "DIRECTED_BY",
+            "target": "bill_young"
+        },
+        {
+            "source": "music_video",
+            "type": "FEATURES",
+            "target": "band"
+        },
+        {
+            "source": "band",
+            "type": "PLAYS_IN_FRONT_OF",
+            "target": "live_audience"
+        },
+        {
+            "source": "three_rings",
+            "type": "FORGED_BY",
+            "target": "elves_of_eregion"
+        },
+        {
+            "source": "three_rings",
+            "type": "INSTANCE_OF",
+            "target": "rings_of_power"
+        },
+        {
+            "source": "one_ring",
+            "type": "INSTANCE_OF",
+            "target": "rings_of_power"
+        },
+        {
+            "source": "rings_of_power",
+            "type": "HAS_TOTAL",
+            "target": "val_20"
+        },
+        {
+            "source": "three_rings",
+            "type": "MADE_BY",
+            "target": "celebrimbor"
+        },
+        {
+            "source": "three_rings",
+            "type": "MADE_IN",
+            "target": "eregion"
+        },
+        {
+            "source": "three_rings",
+            "type": "BOUND_TO",
+            "target": "one_ring"
+        },
+        {
+            "source": "celebrimbor",
+            "type": "TAUGHT_BY",
+            "target": "sauron"
+        },
+        {
+            "source": "sauron",
+            "type": "DISGUISED_AS",
+            "target": "annatar"
+        },
+        {
+            "source": "three_rings",
+            "type": "HIDDEN_BY",
+            "target": "elves"
+        },
+        {
+            "source": "three_rings",
+            "type": "CARRIED_OUT_OF",
+            "target": "middle_earth"
+        },
+        {
+            "source": "three_rings",
+            "type": "CARRIED_OUT_AT",
+            "target": "third_age"
+        },
+        {
+            "source": "one_ring",
+            "type": "DESTROYED_AT",
+            "target": "third_age"
+        },
+        {
+            "source": "narya",
+            "type": "HAS_NAME",
+            "target": "val_red_gemstone"
+        },
+        {
+            "source": "narya",
+            "type": "FEATURED_IN",
+            "target": "the_lord_of_the_rings_final_chapter"
+        },
+        {
+            "source": "narya",
+            "type": "MENTIONED_WITH",
+            "target": "two_elven_rings"
+        },
+        {
+            "source": "quenya",
+            "type": "HAS_NAME",
+            "target": "val_fire"
+        },
+        {
+            "source": "narya_the_great",
+            "type": "HAS_NAME",
+            "target": "val_narya_the_great"
+        },
+        {
+            "source": "ring_of_fire",
+            "type": "HAS_NAME",
+            "target": "val_ring_of_fire"
+        },
+        {
+            "source": "red_ring",
+            "type": "HAS_NAME",
+            "target": "val_red_ring"
+        },
+        {
+            "source": "the_kindler",
+            "type": "HAS_NAME",
+            "target": "val_the_kindler"
+        },
+        {
+            "source": "unfinished_tales",
+            "type": "HAS_CONTENT",
+            "target": "narya"
+        },
+        {
+            "source": "war_of_elves_and_sauron",
+            "type": "INSTANCE_OF",
+            "target": "event"
+        },
+        {
+            "source": "celebrimbor",
+            "type": "GAVE",
+            "target": "narya"
+        },
+        {
+            "source": "celebrimbor",
+            "type": "GAVE",
+            "target": "vilya"
+        },
+        {
+            "source": "narya",
+            "type": "GIVEN_TO",
+            "target": "gil_galad"
+        },
+        {
+            "source": "vilya",
+            "type": "GIVEN_TO",
+            "target": "gil_galad"
+        },
+        {
+            "source": "gil_galad",
+            "type": "HAS_TITLE",
+            "target": "high_king_of_the_noldor"
+        },
+        {
+            "source": "gil_galad",
+            "type": "ENTRUSTED",
+            "target": "narya"
+        },
+        {
+            "source": "narya",
+            "type": "HELD_BY",
+            "target": "ciridan"
+        },
+        {
+            "source": "ciridan",
+            "type": "HAS_TITLE",
+            "target": "lord_of_havens_of_mithlond"
+        },
+        {
+            "source": "the_lord_of_the_rings",
+            "type": "HAS_CONTENT",
+            "target": "vilya"
+        },
+        {
+            "source": "ciridan",
+            "type": "RECEIVED",
+            "target": "narya"
+        },
+        {
+            "source": "galadriel",
+            "type": "RECEIVED",
+            "target": "nenya"
+        }
+    ]
+}
