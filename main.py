@@ -173,6 +173,9 @@ def main():
 
                     cnt_from_adv=sum([i in adv_text_set for i in topk_contents])
                     ret_sublist.append(cnt_from_adv)
+                
+                for itn in topk_contents:
+                    print(itn)
                 query_prompt = wrap_prompt(question, topk_contents, prompt_id=4)
 
                 response = llm.query(query_prompt)

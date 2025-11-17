@@ -54,11 +54,11 @@ test_params = {
     # LLM setting
     'model_name': 'llama7b', 
     'use_truth': False,
-    'top_k': 30,
-    'gpu_id': 1,
+    'top_k': 25,
+    'gpu_id': 3,
 
     # attack
-    'attack_method': 'LM_targeted',
+    'attack_method': 'hotflip',
     'adv_per_query': 5,
     'score_function': 'dot',
     'repeat_times': 10,
