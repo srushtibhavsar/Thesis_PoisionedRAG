@@ -27,7 +27,7 @@ def run(test_params):
 
 def get_log_name(test_params):
     # Generate a log file name
-    os.makedirs(f"/mnt/SAS_A/srushti_thesis/Final_Code/PoisonedRAG/paraphrasing/logs/repeat{test_params['query_results_dir']}_logs", exist_ok=True)
+    os.makedirs(f"/mnt/SAS_A/srushti_thesis/Final_Code/PoisonedRAG/paraphrasing/logs_llama/{test_params['query_results_dir']}_logs", exist_ok=True)
 
     if test_params['use_truth']:
         log_name = f"{test_params['eval_dataset']}-{test_params['eval_model_code']}-{test_params['model_name']}-Truth--M{test_params['M']}x{test_params['repeat_times']}"
@@ -40,7 +40,7 @@ def get_log_name(test_params):
     if test_params['note'] != None:
         log_name = test_params['note']
     
-    return f"/mnt/SAS_A/srushti_thesis/Final_Code/PoisonedRAG/paraphrasing/logs/repeat{test_params['query_results_dir']}_logs/{log_name}.txt", log_name
+    return f"/mnt/SAS_A/srushti_thesis/Final_Code/PoisonedRAG/paraphrasing/logs_llama/{test_params['query_results_dir']}_logs/{log_name}.txt", log_name
 
 
 

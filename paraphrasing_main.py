@@ -12,15 +12,21 @@ from src.prompts import wrap_prompt
 import torch
 from langchain.embeddings import OpenAIEmbeddings
 from neo4j import GraphDatabase 
+import re
 from openai import OpenAI
 from dotenv import load_dotenv
 load_dotenv() 
-
+from langchain_openai import ChatOpenAI
 
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"] 
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
+open_ai_llm = ChatOpenAI(
+    model="gpt-4",
+    openai_api_key=os.environ["OPENAI_API_KEY"],
+    temperature = 0.1
+)
 def get_paraphrase(question: str) -> str:
     prompt = f"""Paraphrase the question without changing its meaning.
 Return only the paraphrased question, no extra text.
@@ -28,16 +34,38 @@ Return only the paraphrased question, no extra text.
 Question: {question}"""
     try:
         resp = client.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0.0,
+            temperature=0.1,
         )
         text = resp.choices[0].message.content.strip()
         return text or question
     except Exception:
         return question
 
+def get_paraphrase_llama(question: str, llm) -> str:
+    prompt = (
+        "Rewrite the following question as ONE paraphrased question.\n"
+        "IMPORTANT: Output ONLY the new question text.\n"
+        "Do NOT include any labels, prefixes, explanations, or introductory words.\n\n"
+        f"Original question: {question}?"
+    )
 
+    raw = llm.query(prompt)
+    # 1) Trim whitespace
+    text = raw.strip()
+
+    # 2) Remove common label patterns at the start
+    text = re.sub(
+        r'^\s*(paraphrased\s*question|paraphrased\s*version|rephrased\s*question)\s*:\s*',
+        '',
+        text,
+        flags=re.IGNORECASE,
+    )
+    print(text)
+    return text.strip()
+    
+    
 
 def parse_args():
     parser = argparse.ArgumentParser(description='test')
@@ -167,9 +195,10 @@ def main():
             main_question = incorrect_answers[i]['question']
             print(f'Question: {main_question}\n') 
             
-            question= get_paraphrase(main_question)
+            #question= get_paraphrase(main_question)
+            question=get_paraphrase_llama(main_question,llm)
             
-            print(f'Paraphrased Question: {question}\n') 
+            #print(f'Paraphrased Question: {question}\n') 
             
             gt_ids = list(qrels[incorrect_answers[i]['id']].keys())
             ground_truth = [corpus[id]["text"] for id in gt_ids]
@@ -215,7 +244,9 @@ def main():
                     ret_sublist.append(cnt_from_adv)
                 query_prompt = wrap_prompt(question, topk_contents, prompt_id=4)
 
-                response = llm.query(query_prompt)
+                # res = open_ai_llm.invoke(query_prompt)
+                # response = res.content
+                response= llm.query(query_prompt)
 
                 print(f'Output: {response}\n\n')
                 injected_adv=[i for i in topk_contents if i in adv_text_set]

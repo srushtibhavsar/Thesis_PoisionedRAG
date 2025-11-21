@@ -4,7 +4,7 @@ def run(test_params):
 
     log_file, log_name = get_log_name(test_params)
 
-    cmd = f"nohup python3 -u duplicate_filtering_main.py \
+    cmd = f"nohup python3 -u hybrid_new_main_llama.py \
         --eval_model_code {test_params['eval_model_code']}\
         --eval_dataset {test_params['eval_dataset']}\
         --split {test_params['split']}\
@@ -27,7 +27,7 @@ def run(test_params):
 
 def get_log_name(test_params):
     # Generate a log file name
-    os.makedirs(f"/mnt/SAS_A/srushti_thesis/Final_Code/PoisonedRAG/duplicate_filtering/logs_2_openai/{test_params['query_results_dir']}_logs", exist_ok=True)
+    os.makedirs(f"hybrid_llama/22k/{test_params['query_results_dir']}_logs", exist_ok=True)
 
     if test_params['use_truth']:
         log_name = f"{test_params['eval_dataset']}-{test_params['eval_model_code']}-{test_params['model_name']}-Truth--M{test_params['M']}x{test_params['repeat_times']}"
@@ -40,7 +40,7 @@ def get_log_name(test_params):
     if test_params['note'] != None:
         log_name = test_params['note']
     
-    return f"/mnt/SAS_A/srushti_thesis/Final_Code/PoisonedRAG/duplicate_filtering/logs_2_openai/{test_params['query_results_dir']}_logs/{log_name}.txt", log_name
+    return f"hybrid_llama/22k/{test_params['query_results_dir']}_logs/{log_name}.txt", log_name
 
 
 
@@ -61,8 +61,8 @@ test_params = {
     'attack_method': 'LM_targeted',
     'adv_per_query': 5,
     'score_function': 'dot',
-    'repeat_times': 10,
-    'M': 10,
+    'repeat_times': 1,
+    'M': 1,
     'seed': 12,
 
     'note': None

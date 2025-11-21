@@ -21731,13 +21731,11 @@
             "attributes": {
                 "name": "Black Panther",
                 "premiereDate": "2018-01-29",
-                "releaseDates": {
-                    "unitedKingdom": "2018-02-13",
-                    "hongKong": "2018-02-13",
-                    "taiwan": "2018-02-13",
-                    "southKorea": "2018-02-14",
-                    "unitedStates": "2018-02-16"
-                },
+                "releaseDates_unitedKingdom": "2018-02-13",
+                "releaseDates_hongKong": "2018-02-13",
+                "releaseDates_taiwan": "2018-02-13",
+                "releaseDates_southKorea": "2018-02-14",
+                "releaseDates_unitedStates": "2018-02-16",
                 "screenFormat": "ScreenX"
             }
         },
